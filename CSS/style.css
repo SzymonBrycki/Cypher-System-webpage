@@ -1,0 +1,32 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+.main-background
+{
+    background-image: url(../IMG/cs_header.png);
+    /*
+    background-position: center;
+    */
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.title
+{
+    color: #FFFFFF;
+    text-align: right;
+    vertical-align: middle;
+    font-weight: bold;
+    margin: 25px;
+    font-size: 50px;
+}
+
+.content
+{
+    margin: 25px;
+}
